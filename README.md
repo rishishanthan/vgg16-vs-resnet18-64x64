@@ -155,3 +155,6 @@ tqdm==4.66.5
 - Experiment with transfer learning on larger datasets (CIFAR-10 / Tiny-ImageNet).
 - Implement Grad-CAM visualizations to analyze activation relevance.
 - Deploy the best-performing model for inference via a simple web interface.
+
+## 📂 Dataset
+- The dataset used is in git releases as a zip file.
